@@ -1,0 +1,24 @@
+{
+  "drugs": [
+    {
+      "name": "Paracetamol",
+      "image": "https://cdn.pixabay.com/photo/2014/04/05/11/23/paracetamol-medication-pills-black-315875_1280.jpg"
+    },
+    {
+      "name": "Ibuprofen",
+      "image": "https://cdn.pixabay.com/photo/2016/11/19/15/47/pills-1838653_1280.jpg"
+    },
+    {
+      "name": "Aspirin",
+      "image": "https://cdn.pixabay.com/photo/2016/10/13/09/06/pills-1736949_1280.jpg"
+    },
+    {
+      "name": "Amoxicillin",
+      "image": "https://cdn.pixabay.com/photo/2017/12/09/08/18/medication-3001978_1280.jpg"
+    },
+    {
+      "name": "Omeprazole",
+      "image": "https://cdn.pixabay.com/photo/2018/07/26/12/53/medicine-3560569_1280.jpg"
+    }
+  ]
+}
