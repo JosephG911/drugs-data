@@ -2,7 +2,8 @@
   "drugs": [
     {
       "name": "Paracetamol",
-      "image": "https://cdn.pixabay.com/photo/2014/04/05/11/23/paracetamol-medication-pills-black-315875_1280.jpg"
+           "image": "assets/images/paracetamol.jfif"
+
     },
     {
       "name": "Ibuprofen",
