@@ -2,24 +2,24 @@
   "drugs": [
     {
       "name": "Paracetamol",
-           "image": "assets/images/paracetamol.jfif"
+           "image": "assets/images/paracetamol.png"
 
     },
     {
       "name": "Ibuprofen",
-      "image": "https://cdn.pixabay.com/photo/2016/11/19/15/47/pills-1838653_1280.jpg"
+      "image": "assets/images/ibuprofen.png"
     },
     {
       "name": "Aspirin",
-      "image": "https://cdn.pixabay.com/photo/2016/10/13/09/06/pills-1736949_1280.jpg"
+      "image": "assets/images/aspirin.png"
     },
     {
       "name": "Amoxicillin",
-      "image": "https://cdn.pixabay.com/photo/2017/12/09/08/18/medication-3001978_1280.jpg"
+      "image": "assets/images/AMOXICILLIN.png"
     },
     {
       "name": "Omeprazole",
-      "image": "https://cdn.pixabay.com/photo/2018/07/26/12/53/medicine-3560569_1280.jpg"
+      "image": "assets/images/Omeprazole.webp"
     }
   ]
 }
