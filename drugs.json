@@ -17,19 +17,6 @@
       "name": "Aspirin",
       "image": "assets/images/aspirin.png",
       "count":0
-    },
-    {
-      "id":4,
-      "name": "Amoxicillin",
-      "image": "assets/images/AMOXICILLIN.png",
-      "count":0
-    },
-    {
-      "id":5,
-      "name": "Omeprazole",
-      "image": "assets/images/Omeprazole.webp",
-      "count":0
-
-    }    
+    }  
   ]
 }
