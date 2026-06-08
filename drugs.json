@@ -18,11 +18,11 @@
       "image": "assets/images/aspirin.png",
       "count":0
     },
-    {
+   {
       "id":4,
-      "name": "Chestal Honey",
-      "image": "assets/images/834-8343442_chestal-honey-cough-chest-congestion-chestal-honey.png",
+      "name": "Omperazol syrup",
+      "image": "assets/images/Omeprazole.webp",
       "count":0
-    }  
+    }    
   ]
 }
